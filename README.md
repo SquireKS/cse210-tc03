@@ -1,4 +1,4 @@
-# cse210-tc03test
+cse210-tc03test
 
 Thank you for the nice bio Gerald!
 It's nice to get to to know you even a bit more :)
