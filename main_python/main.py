@@ -1,4 +1,4 @@
-from main_python.squire import kam_gretting
+from squire import kam_gretting
 
 
 print('Welcome to our collaborative program.')
