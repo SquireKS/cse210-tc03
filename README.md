@@ -1,4 +1,7 @@
 
+cse210-tc03test
+
+
 # cse210-tc03
 
 Kameron Squire
@@ -18,6 +21,7 @@ Hi everyone, My name is Gerald Quispe (45) I am from Lima, Perú. I love music a
 I am from Ica, a province at the south of Lima, but I live in Lima for 20 years.
 
 # cse210-tc03
+
 
 Thank you for the nice bio Gerald!
 It's nice to get to to know you even a bit more :)
