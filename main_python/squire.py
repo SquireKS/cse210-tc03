@@ -1,2 +1,3 @@
 def kam_gretting():
-    print('Kam the Man shouts "Hello"!')
+    name = input("What is your name? ").title()
+    print(f'Kam the Man shouts "Hello {name}!!"')
