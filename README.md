@@ -30,3 +30,8 @@ Hey!
 I'm Bogdan and like bananas very much!
 I'm trying to have no processed sugars in my nutrition so that's why all the sweet fruits are my favorite!!
 
+# cse210-tc03
+
+My name is Juan Figueroa. I live in Bakersfield, California. 
+I have been married for 16 years. We have 4 children; 3 girls and 1 boy. 
+We also have 3 guinnea pigs, 1 rabbit, and 1 dog. 
